@@ -1,0 +1,6 @@
+Location,Date,Time,Noise_Level_dB,Source
+City Center,2025-08-25,09:00,75,Traffic
+Residential Area,2025-08-25,12:00,55,Domestic
+Highway,2025-08-25,15:00,85,Vehicles
+Park,2025-08-25,18:00,48,Natural
+School Zone,2025-08-25,21:00,60,Mixed
